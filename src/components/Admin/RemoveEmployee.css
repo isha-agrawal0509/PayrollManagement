@@ -1,0 +1,28 @@
+/* RemoveEmployee.css */
+.remove-employee {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.remove-employee h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.remove-employee p {
+    font-size: 18px;
+}
+
+.remove-employee button {
+    padding: 10px 15px;
+    font-size: 18px;
+    background-color: #d9534f;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.remove-employee button:hover {
+    background-color: #c9302c;
+}

@@ -1,0 +1,48 @@
+/* AddEmployee.css */
+.add-employee {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.add-employee h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.add-employee form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.add-employee label {
+    font-size: 18px;
+}
+
+.add-employee input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.add-employee button {
+    padding: 10px 15px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-employee button:hover {
+    background-color: #0056b3;
+}
+.add-employee {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
